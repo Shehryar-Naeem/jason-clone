@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "kashan",
+      "lname": "hassan",
+      "email": "sherik@123",
+      "password": "sherrdsfsdf",
+      "id": 3
+    },
+    {
+      "name": "shehryar",
+      "lname": "kashan",
+      "email": "bsf2000745@ue.edu.pk",
+      "password": "sdfsfs",
+      "id": 4
+    }
+  ]
+}
